@@ -1,0 +1,43 @@
+body{
+  font-family: "Lato", sans-serif;
+}
+
+h2{
+  font-weight: bolder;
+}
+
+h4{
+  font-weight: 100px;
+}
+
+p{
+  font-style: italic;
+}
+
+.img-thumbnail{
+  width: 50%;
+}
+
+.my-profile{
+  text-align: center;
+}
+
+.list-item{
+  padding-left: 100px;
+}
+
+.fas, .fab{
+  padding-right: 20px;
+}
+
+.far{
+  padding-right: 7px;
+  color: #0dcaf0;
+}
+.skills{
+  margin: auto 20px;
+}
+
+.tasks{
+  padding-left:20px;
+}
